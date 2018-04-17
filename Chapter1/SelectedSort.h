@@ -1,0 +1,9 @@
+//
+// Created by andrew on 18-4-17.
+//
+
+#ifndef ALGORITHMDESIGN_CODING_SELECTEDSORT_H
+#define ALGORITHMDESIGN_CODING_SELECTEDSORT_H
+
+#endif //ALGORITHMDESIGN_CODING_SELECTEDSORT_H
+void SelectionSort(int a[],int n);

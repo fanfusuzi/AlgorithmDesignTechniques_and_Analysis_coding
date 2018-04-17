@@ -1,0 +1,10 @@
+//
+// Created by andrew on 18-4-17.
+//
+
+#ifndef ALGORITHMDESIGN_CODING_INSERTIONSORT_H
+#define ALGORITHMDESIGN_CODING_INSERTIONSORT_H
+
+#endif //ALGORITHMDESIGN_CODING_INSERTIONSORT_H
+
+void InsertionSort(int a[],int n);

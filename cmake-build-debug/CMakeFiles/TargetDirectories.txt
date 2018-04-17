@@ -1,0 +1,3 @@
+/home/andrew/CLionProjects/AlgorithmDesign_coding/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/andrew/CLionProjects/AlgorithmDesign_coding/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/andrew/CLionProjects/AlgorithmDesign_coding/cmake-build-debug/CMakeFiles/AlgorithmDesign_coding.dir
