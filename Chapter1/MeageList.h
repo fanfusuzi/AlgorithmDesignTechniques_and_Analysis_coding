@@ -6,4 +6,4 @@
 #define ALGORITHMDESIGN_CODING_MEAGELIST_H
 
 #endif //ALGORITHMDESIGN_CODING_MEAGELIST_H
-void Merge(int a[],int b[] ,int p,int m);
+void Merge(int a[],int p,int q,int e);

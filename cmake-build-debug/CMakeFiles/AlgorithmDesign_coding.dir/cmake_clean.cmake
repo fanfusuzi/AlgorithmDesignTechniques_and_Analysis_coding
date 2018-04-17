@@ -5,6 +5,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/AlgorithmDesign_coding.dir/Chapter1/MeageList.cpp.o"
   "CMakeFiles/AlgorithmDesign_coding.dir/Chapter1/SelectedSort.cpp.o"
   "CMakeFiles/AlgorithmDesign_coding.dir/Chapter1/InsertionSort.cpp.o"
+  "CMakeFiles/AlgorithmDesign_coding.dir/Chapter1/BUTTONUPSORT.cpp.o"
   "AlgorithmDesign_coding.pdb"
   "AlgorithmDesign_coding"
 )

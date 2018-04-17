@@ -1,0 +1,11 @@
+//
+// Created by andrew on 18-4-17.
+//
+
+#ifndef ALGORITHMDESIGN_CODING_MUTTONUPSORT_H
+#define ALGORITHMDESIGN_CODING_MUTTONUPSORT_H
+
+#endif //ALGORITHMDESIGN_CODING_MUTTONUPSORT_H
+
+void ButtonUpSort(int a[],int n);
+

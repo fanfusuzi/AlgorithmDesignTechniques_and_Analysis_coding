@@ -123,6 +123,33 @@ AlgorithmDesign_coding/fast:
 	$(MAKE) -f CMakeFiles/AlgorithmDesign_coding.dir/build.make CMakeFiles/AlgorithmDesign_coding.dir/build
 .PHONY : AlgorithmDesign_coding/fast
 
+Chapter1/BUTTONUPSORT.o: Chapter1/BUTTONUPSORT.cpp.o
+
+.PHONY : Chapter1/BUTTONUPSORT.o
+
+# target to build an object file
+Chapter1/BUTTONUPSORT.cpp.o:
+	$(MAKE) -f CMakeFiles/AlgorithmDesign_coding.dir/build.make CMakeFiles/AlgorithmDesign_coding.dir/Chapter1/BUTTONUPSORT.cpp.o
+.PHONY : Chapter1/BUTTONUPSORT.cpp.o
+
+Chapter1/BUTTONUPSORT.i: Chapter1/BUTTONUPSORT.cpp.i
+
+.PHONY : Chapter1/BUTTONUPSORT.i
+
+# target to preprocess a source file
+Chapter1/BUTTONUPSORT.cpp.i:
+	$(MAKE) -f CMakeFiles/AlgorithmDesign_coding.dir/build.make CMakeFiles/AlgorithmDesign_coding.dir/Chapter1/BUTTONUPSORT.cpp.i
+.PHONY : Chapter1/BUTTONUPSORT.cpp.i
+
+Chapter1/BUTTONUPSORT.s: Chapter1/BUTTONUPSORT.cpp.s
+
+.PHONY : Chapter1/BUTTONUPSORT.s
+
+# target to generate assembly for a file
+Chapter1/BUTTONUPSORT.cpp.s:
+	$(MAKE) -f CMakeFiles/AlgorithmDesign_coding.dir/build.make CMakeFiles/AlgorithmDesign_coding.dir/Chapter1/BUTTONUPSORT.cpp.s
+.PHONY : Chapter1/BUTTONUPSORT.cpp.s
+
 Chapter1/BinSearch.o: Chapter1/BinSearch.cpp.o
 
 .PHONY : Chapter1/BinSearch.o
@@ -294,6 +321,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... AlgorithmDesign_coding"
+	@echo "... Chapter1/BUTTONUPSORT.o"
+	@echo "... Chapter1/BUTTONUPSORT.i"
+	@echo "... Chapter1/BUTTONUPSORT.s"
 	@echo "... Chapter1/BinSearch.o"
 	@echo "... Chapter1/BinSearch.i"
 	@echo "... Chapter1/BinSearch.s"

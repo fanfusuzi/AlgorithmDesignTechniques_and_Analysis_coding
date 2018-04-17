@@ -84,6 +84,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/home/andrew/CLionProjects/AlgorithmDesign_coding/Chapter1/BUTTONUPSORT.cpp">
+			<Option target="AlgorithmDesign_coding"/>
+		</Unit>
+		<Unit filename="/home/andrew/CLionProjects/AlgorithmDesign_coding/Chapter1/BUTTONUPSORT.h">
+			<Option target="AlgorithmDesign_coding"/>
+		</Unit>
 		<Unit filename="/home/andrew/CLionProjects/AlgorithmDesign_coding/Chapter1/BinSearch.cpp">
 			<Option target="AlgorithmDesign_coding"/>
 		</Unit>
