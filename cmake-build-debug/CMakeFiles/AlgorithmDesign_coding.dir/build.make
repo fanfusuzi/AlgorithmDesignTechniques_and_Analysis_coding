@@ -225,6 +225,54 @@ CMakeFiles/AlgorithmDesign_coding.dir/Chapter1/BUTTONUPSORT.cpp.o.provides: CMak
 CMakeFiles/AlgorithmDesign_coding.dir/Chapter1/BUTTONUPSORT.cpp.o.provides.build: CMakeFiles/AlgorithmDesign_coding.dir/Chapter1/BUTTONUPSORT.cpp.o
 
 
+CMakeFiles/AlgorithmDesign_coding.dir/DynamicProgramming/LCS.cpp.o: CMakeFiles/AlgorithmDesign_coding.dir/flags.make
+CMakeFiles/AlgorithmDesign_coding.dir/DynamicProgramming/LCS.cpp.o: ../DynamicProgramming/LCS.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/andrew/CLionProjects/AlgorithmDesign_coding/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/AlgorithmDesign_coding.dir/DynamicProgramming/LCS.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AlgorithmDesign_coding.dir/DynamicProgramming/LCS.cpp.o -c /home/andrew/CLionProjects/AlgorithmDesign_coding/DynamicProgramming/LCS.cpp
+
+CMakeFiles/AlgorithmDesign_coding.dir/DynamicProgramming/LCS.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AlgorithmDesign_coding.dir/DynamicProgramming/LCS.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/andrew/CLionProjects/AlgorithmDesign_coding/DynamicProgramming/LCS.cpp > CMakeFiles/AlgorithmDesign_coding.dir/DynamicProgramming/LCS.cpp.i
+
+CMakeFiles/AlgorithmDesign_coding.dir/DynamicProgramming/LCS.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AlgorithmDesign_coding.dir/DynamicProgramming/LCS.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/andrew/CLionProjects/AlgorithmDesign_coding/DynamicProgramming/LCS.cpp -o CMakeFiles/AlgorithmDesign_coding.dir/DynamicProgramming/LCS.cpp.s
+
+CMakeFiles/AlgorithmDesign_coding.dir/DynamicProgramming/LCS.cpp.o.requires:
+
+.PHONY : CMakeFiles/AlgorithmDesign_coding.dir/DynamicProgramming/LCS.cpp.o.requires
+
+CMakeFiles/AlgorithmDesign_coding.dir/DynamicProgramming/LCS.cpp.o.provides: CMakeFiles/AlgorithmDesign_coding.dir/DynamicProgramming/LCS.cpp.o.requires
+	$(MAKE) -f CMakeFiles/AlgorithmDesign_coding.dir/build.make CMakeFiles/AlgorithmDesign_coding.dir/DynamicProgramming/LCS.cpp.o.provides.build
+.PHONY : CMakeFiles/AlgorithmDesign_coding.dir/DynamicProgramming/LCS.cpp.o.provides
+
+CMakeFiles/AlgorithmDesign_coding.dir/DynamicProgramming/LCS.cpp.o.provides.build: CMakeFiles/AlgorithmDesign_coding.dir/DynamicProgramming/LCS.cpp.o
+
+
+CMakeFiles/AlgorithmDesign_coding.dir/DynamicProgramming/MATCHAIN.cpp.o: CMakeFiles/AlgorithmDesign_coding.dir/flags.make
+CMakeFiles/AlgorithmDesign_coding.dir/DynamicProgramming/MATCHAIN.cpp.o: ../DynamicProgramming/MATCHAIN.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/andrew/CLionProjects/AlgorithmDesign_coding/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/AlgorithmDesign_coding.dir/DynamicProgramming/MATCHAIN.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AlgorithmDesign_coding.dir/DynamicProgramming/MATCHAIN.cpp.o -c /home/andrew/CLionProjects/AlgorithmDesign_coding/DynamicProgramming/MATCHAIN.cpp
+
+CMakeFiles/AlgorithmDesign_coding.dir/DynamicProgramming/MATCHAIN.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AlgorithmDesign_coding.dir/DynamicProgramming/MATCHAIN.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/andrew/CLionProjects/AlgorithmDesign_coding/DynamicProgramming/MATCHAIN.cpp > CMakeFiles/AlgorithmDesign_coding.dir/DynamicProgramming/MATCHAIN.cpp.i
+
+CMakeFiles/AlgorithmDesign_coding.dir/DynamicProgramming/MATCHAIN.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AlgorithmDesign_coding.dir/DynamicProgramming/MATCHAIN.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/andrew/CLionProjects/AlgorithmDesign_coding/DynamicProgramming/MATCHAIN.cpp -o CMakeFiles/AlgorithmDesign_coding.dir/DynamicProgramming/MATCHAIN.cpp.s
+
+CMakeFiles/AlgorithmDesign_coding.dir/DynamicProgramming/MATCHAIN.cpp.o.requires:
+
+.PHONY : CMakeFiles/AlgorithmDesign_coding.dir/DynamicProgramming/MATCHAIN.cpp.o.requires
+
+CMakeFiles/AlgorithmDesign_coding.dir/DynamicProgramming/MATCHAIN.cpp.o.provides: CMakeFiles/AlgorithmDesign_coding.dir/DynamicProgramming/MATCHAIN.cpp.o.requires
+	$(MAKE) -f CMakeFiles/AlgorithmDesign_coding.dir/build.make CMakeFiles/AlgorithmDesign_coding.dir/DynamicProgramming/MATCHAIN.cpp.o.provides.build
+.PHONY : CMakeFiles/AlgorithmDesign_coding.dir/DynamicProgramming/MATCHAIN.cpp.o.provides
+
+CMakeFiles/AlgorithmDesign_coding.dir/DynamicProgramming/MATCHAIN.cpp.o.provides.build: CMakeFiles/AlgorithmDesign_coding.dir/DynamicProgramming/MATCHAIN.cpp.o
+
+
 # Object files for target AlgorithmDesign_coding
 AlgorithmDesign_coding_OBJECTS = \
 "CMakeFiles/AlgorithmDesign_coding.dir/main.cpp.o" \
@@ -233,7 +281,9 @@ AlgorithmDesign_coding_OBJECTS = \
 "CMakeFiles/AlgorithmDesign_coding.dir/Chapter1/MeageList.cpp.o" \
 "CMakeFiles/AlgorithmDesign_coding.dir/Chapter1/SelectedSort.cpp.o" \
 "CMakeFiles/AlgorithmDesign_coding.dir/Chapter1/InsertionSort.cpp.o" \
-"CMakeFiles/AlgorithmDesign_coding.dir/Chapter1/BUTTONUPSORT.cpp.o"
+"CMakeFiles/AlgorithmDesign_coding.dir/Chapter1/BUTTONUPSORT.cpp.o" \
+"CMakeFiles/AlgorithmDesign_coding.dir/DynamicProgramming/LCS.cpp.o" \
+"CMakeFiles/AlgorithmDesign_coding.dir/DynamicProgramming/MATCHAIN.cpp.o"
 
 # External object files for target AlgorithmDesign_coding
 AlgorithmDesign_coding_EXTERNAL_OBJECTS =
@@ -245,9 +295,11 @@ AlgorithmDesign_coding: CMakeFiles/AlgorithmDesign_coding.dir/Chapter1/MeageList
 AlgorithmDesign_coding: CMakeFiles/AlgorithmDesign_coding.dir/Chapter1/SelectedSort.cpp.o
 AlgorithmDesign_coding: CMakeFiles/AlgorithmDesign_coding.dir/Chapter1/InsertionSort.cpp.o
 AlgorithmDesign_coding: CMakeFiles/AlgorithmDesign_coding.dir/Chapter1/BUTTONUPSORT.cpp.o
+AlgorithmDesign_coding: CMakeFiles/AlgorithmDesign_coding.dir/DynamicProgramming/LCS.cpp.o
+AlgorithmDesign_coding: CMakeFiles/AlgorithmDesign_coding.dir/DynamicProgramming/MATCHAIN.cpp.o
 AlgorithmDesign_coding: CMakeFiles/AlgorithmDesign_coding.dir/build.make
 AlgorithmDesign_coding: CMakeFiles/AlgorithmDesign_coding.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/andrew/CLionProjects/AlgorithmDesign_coding/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable AlgorithmDesign_coding"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/andrew/CLionProjects/AlgorithmDesign_coding/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Linking CXX executable AlgorithmDesign_coding"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/AlgorithmDesign_coding.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -262,6 +314,8 @@ CMakeFiles/AlgorithmDesign_coding.dir/requires: CMakeFiles/AlgorithmDesign_codin
 CMakeFiles/AlgorithmDesign_coding.dir/requires: CMakeFiles/AlgorithmDesign_coding.dir/Chapter1/SelectedSort.cpp.o.requires
 CMakeFiles/AlgorithmDesign_coding.dir/requires: CMakeFiles/AlgorithmDesign_coding.dir/Chapter1/InsertionSort.cpp.o.requires
 CMakeFiles/AlgorithmDesign_coding.dir/requires: CMakeFiles/AlgorithmDesign_coding.dir/Chapter1/BUTTONUPSORT.cpp.o.requires
+CMakeFiles/AlgorithmDesign_coding.dir/requires: CMakeFiles/AlgorithmDesign_coding.dir/DynamicProgramming/LCS.cpp.o.requires
+CMakeFiles/AlgorithmDesign_coding.dir/requires: CMakeFiles/AlgorithmDesign_coding.dir/DynamicProgramming/MATCHAIN.cpp.o.requires
 
 .PHONY : CMakeFiles/AlgorithmDesign_coding.dir/requires
 

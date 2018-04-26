@@ -44,6 +44,20 @@ SelectedSort.h
 
 /home/andrew/CLionProjects/AlgorithmDesign_coding/Chapter1/SelectedSort.h
 
+/home/andrew/CLionProjects/AlgorithmDesign_coding/DynamicProgramming/LCS.cpp
+LCS.h
+/home/andrew/CLionProjects/AlgorithmDesign_coding/DynamicProgramming/LCS.h
+
+/home/andrew/CLionProjects/AlgorithmDesign_coding/DynamicProgramming/LCS.h
+
+/home/andrew/CLionProjects/AlgorithmDesign_coding/DynamicProgramming/MATCHAIN.cpp
+MATCHAIN.h
+/home/andrew/CLionProjects/AlgorithmDesign_coding/DynamicProgramming/MATCHAIN.h
+stdio.h
+-
+
+/home/andrew/CLionProjects/AlgorithmDesign_coding/DynamicProgramming/MATCHAIN.h
+
 /home/andrew/CLionProjects/AlgorithmDesign_coding/main.cpp
 iostream
 -
@@ -59,4 +73,8 @@ Chapter1/InsertionSort.h
 /home/andrew/CLionProjects/AlgorithmDesign_coding/Chapter1/InsertionSort.h
 Chapter1/BUTTONUPSORT.h
 /home/andrew/CLionProjects/AlgorithmDesign_coding/Chapter1/BUTTONUPSORT.h
+DynamicProgramming/LCS.h
+/home/andrew/CLionProjects/AlgorithmDesign_coding/DynamicProgramming/LCS.h
+DynamicProgramming/MATCHAIN.h
+/home/andrew/CLionProjects/AlgorithmDesign_coding/DynamicProgramming/MATCHAIN.h
 

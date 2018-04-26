@@ -120,6 +120,18 @@
 		<Unit filename="/home/andrew/CLionProjects/AlgorithmDesign_coding/Chapter1/SelectedSort.h">
 			<Option target="AlgorithmDesign_coding"/>
 		</Unit>
+		<Unit filename="/home/andrew/CLionProjects/AlgorithmDesign_coding/DynamicProgramming/LCS.cpp">
+			<Option target="AlgorithmDesign_coding"/>
+		</Unit>
+		<Unit filename="/home/andrew/CLionProjects/AlgorithmDesign_coding/DynamicProgramming/LCS.h">
+			<Option target="AlgorithmDesign_coding"/>
+		</Unit>
+		<Unit filename="/home/andrew/CLionProjects/AlgorithmDesign_coding/DynamicProgramming/MATCHAIN.cpp">
+			<Option target="AlgorithmDesign_coding"/>
+		</Unit>
+		<Unit filename="/home/andrew/CLionProjects/AlgorithmDesign_coding/DynamicProgramming/MATCHAIN.h">
+			<Option target="AlgorithmDesign_coding"/>
+		</Unit>
 		<Unit filename="/home/andrew/CLionProjects/AlgorithmDesign_coding/main.cpp">
 			<Option target="AlgorithmDesign_coding"/>
 		</Unit>

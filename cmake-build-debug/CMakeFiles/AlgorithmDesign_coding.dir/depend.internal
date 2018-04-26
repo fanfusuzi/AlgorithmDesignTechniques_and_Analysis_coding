@@ -20,6 +20,12 @@ CMakeFiles/AlgorithmDesign_coding.dir/Chapter1/MeageList.cpp.o
 CMakeFiles/AlgorithmDesign_coding.dir/Chapter1/SelectedSort.cpp.o
  /home/andrew/CLionProjects/AlgorithmDesign_coding/Chapter1/SelectedSort.cpp
  /home/andrew/CLionProjects/AlgorithmDesign_coding/Chapter1/SelectedSort.h
+CMakeFiles/AlgorithmDesign_coding.dir/DynamicProgramming/LCS.cpp.o
+ /home/andrew/CLionProjects/AlgorithmDesign_coding/DynamicProgramming/LCS.cpp
+ /home/andrew/CLionProjects/AlgorithmDesign_coding/DynamicProgramming/LCS.h
+CMakeFiles/AlgorithmDesign_coding.dir/DynamicProgramming/MATCHAIN.cpp.o
+ /home/andrew/CLionProjects/AlgorithmDesign_coding/DynamicProgramming/MATCHAIN.cpp
+ /home/andrew/CLionProjects/AlgorithmDesign_coding/DynamicProgramming/MATCHAIN.h
 CMakeFiles/AlgorithmDesign_coding.dir/main.cpp.o
  /home/andrew/CLionProjects/AlgorithmDesign_coding/Chapter1/BUTTONUPSORT.h
  /home/andrew/CLionProjects/AlgorithmDesign_coding/Chapter1/BinSearch.h
@@ -27,4 +33,6 @@ CMakeFiles/AlgorithmDesign_coding.dir/main.cpp.o
  /home/andrew/CLionProjects/AlgorithmDesign_coding/Chapter1/LinearSearch.h
  /home/andrew/CLionProjects/AlgorithmDesign_coding/Chapter1/MeageList.h
  /home/andrew/CLionProjects/AlgorithmDesign_coding/Chapter1/SelectedSort.h
+ /home/andrew/CLionProjects/AlgorithmDesign_coding/DynamicProgramming/LCS.h
+ /home/andrew/CLionProjects/AlgorithmDesign_coding/DynamicProgramming/MATCHAIN.h
  /home/andrew/CLionProjects/AlgorithmDesign_coding/main.cpp

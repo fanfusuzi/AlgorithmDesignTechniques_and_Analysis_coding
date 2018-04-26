@@ -285,6 +285,60 @@ Chapter1/SelectedSort.cpp.s:
 	$(MAKE) -f CMakeFiles/AlgorithmDesign_coding.dir/build.make CMakeFiles/AlgorithmDesign_coding.dir/Chapter1/SelectedSort.cpp.s
 .PHONY : Chapter1/SelectedSort.cpp.s
 
+DynamicProgramming/LCS.o: DynamicProgramming/LCS.cpp.o
+
+.PHONY : DynamicProgramming/LCS.o
+
+# target to build an object file
+DynamicProgramming/LCS.cpp.o:
+	$(MAKE) -f CMakeFiles/AlgorithmDesign_coding.dir/build.make CMakeFiles/AlgorithmDesign_coding.dir/DynamicProgramming/LCS.cpp.o
+.PHONY : DynamicProgramming/LCS.cpp.o
+
+DynamicProgramming/LCS.i: DynamicProgramming/LCS.cpp.i
+
+.PHONY : DynamicProgramming/LCS.i
+
+# target to preprocess a source file
+DynamicProgramming/LCS.cpp.i:
+	$(MAKE) -f CMakeFiles/AlgorithmDesign_coding.dir/build.make CMakeFiles/AlgorithmDesign_coding.dir/DynamicProgramming/LCS.cpp.i
+.PHONY : DynamicProgramming/LCS.cpp.i
+
+DynamicProgramming/LCS.s: DynamicProgramming/LCS.cpp.s
+
+.PHONY : DynamicProgramming/LCS.s
+
+# target to generate assembly for a file
+DynamicProgramming/LCS.cpp.s:
+	$(MAKE) -f CMakeFiles/AlgorithmDesign_coding.dir/build.make CMakeFiles/AlgorithmDesign_coding.dir/DynamicProgramming/LCS.cpp.s
+.PHONY : DynamicProgramming/LCS.cpp.s
+
+DynamicProgramming/MATCHAIN.o: DynamicProgramming/MATCHAIN.cpp.o
+
+.PHONY : DynamicProgramming/MATCHAIN.o
+
+# target to build an object file
+DynamicProgramming/MATCHAIN.cpp.o:
+	$(MAKE) -f CMakeFiles/AlgorithmDesign_coding.dir/build.make CMakeFiles/AlgorithmDesign_coding.dir/DynamicProgramming/MATCHAIN.cpp.o
+.PHONY : DynamicProgramming/MATCHAIN.cpp.o
+
+DynamicProgramming/MATCHAIN.i: DynamicProgramming/MATCHAIN.cpp.i
+
+.PHONY : DynamicProgramming/MATCHAIN.i
+
+# target to preprocess a source file
+DynamicProgramming/MATCHAIN.cpp.i:
+	$(MAKE) -f CMakeFiles/AlgorithmDesign_coding.dir/build.make CMakeFiles/AlgorithmDesign_coding.dir/DynamicProgramming/MATCHAIN.cpp.i
+.PHONY : DynamicProgramming/MATCHAIN.cpp.i
+
+DynamicProgramming/MATCHAIN.s: DynamicProgramming/MATCHAIN.cpp.s
+
+.PHONY : DynamicProgramming/MATCHAIN.s
+
+# target to generate assembly for a file
+DynamicProgramming/MATCHAIN.cpp.s:
+	$(MAKE) -f CMakeFiles/AlgorithmDesign_coding.dir/build.make CMakeFiles/AlgorithmDesign_coding.dir/DynamicProgramming/MATCHAIN.cpp.s
+.PHONY : DynamicProgramming/MATCHAIN.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -339,6 +393,12 @@ help:
 	@echo "... Chapter1/SelectedSort.o"
 	@echo "... Chapter1/SelectedSort.i"
 	@echo "... Chapter1/SelectedSort.s"
+	@echo "... DynamicProgramming/LCS.o"
+	@echo "... DynamicProgramming/LCS.i"
+	@echo "... DynamicProgramming/LCS.s"
+	@echo "... DynamicProgramming/MATCHAIN.o"
+	@echo "... DynamicProgramming/MATCHAIN.i"
+	@echo "... DynamicProgramming/MATCHAIN.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

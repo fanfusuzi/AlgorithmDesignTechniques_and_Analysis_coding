@@ -10,6 +10,8 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/home/andrew/CLionProjects/AlgorithmDesign_coding/Chapter1/LinearSearch.cpp" "/home/andrew/CLionProjects/AlgorithmDesign_coding/cmake-build-debug/CMakeFiles/AlgorithmDesign_coding.dir/Chapter1/LinearSearch.cpp.o"
   "/home/andrew/CLionProjects/AlgorithmDesign_coding/Chapter1/MeageList.cpp" "/home/andrew/CLionProjects/AlgorithmDesign_coding/cmake-build-debug/CMakeFiles/AlgorithmDesign_coding.dir/Chapter1/MeageList.cpp.o"
   "/home/andrew/CLionProjects/AlgorithmDesign_coding/Chapter1/SelectedSort.cpp" "/home/andrew/CLionProjects/AlgorithmDesign_coding/cmake-build-debug/CMakeFiles/AlgorithmDesign_coding.dir/Chapter1/SelectedSort.cpp.o"
+  "/home/andrew/CLionProjects/AlgorithmDesign_coding/DynamicProgramming/LCS.cpp" "/home/andrew/CLionProjects/AlgorithmDesign_coding/cmake-build-debug/CMakeFiles/AlgorithmDesign_coding.dir/DynamicProgramming/LCS.cpp.o"
+  "/home/andrew/CLionProjects/AlgorithmDesign_coding/DynamicProgramming/MATCHAIN.cpp" "/home/andrew/CLionProjects/AlgorithmDesign_coding/cmake-build-debug/CMakeFiles/AlgorithmDesign_coding.dir/DynamicProgramming/MATCHAIN.cpp.o"
   "/home/andrew/CLionProjects/AlgorithmDesign_coding/main.cpp" "/home/andrew/CLionProjects/AlgorithmDesign_coding/cmake-build-debug/CMakeFiles/AlgorithmDesign_coding.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")

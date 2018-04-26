@@ -20,11 +20,19 @@ CMakeFiles/AlgorithmDesign_coding.dir/Chapter1/MeageList.cpp.o: ../Chapter1/Meag
 CMakeFiles/AlgorithmDesign_coding.dir/Chapter1/SelectedSort.cpp.o: ../Chapter1/SelectedSort.cpp
 CMakeFiles/AlgorithmDesign_coding.dir/Chapter1/SelectedSort.cpp.o: ../Chapter1/SelectedSort.h
 
+CMakeFiles/AlgorithmDesign_coding.dir/DynamicProgramming/LCS.cpp.o: ../DynamicProgramming/LCS.cpp
+CMakeFiles/AlgorithmDesign_coding.dir/DynamicProgramming/LCS.cpp.o: ../DynamicProgramming/LCS.h
+
+CMakeFiles/AlgorithmDesign_coding.dir/DynamicProgramming/MATCHAIN.cpp.o: ../DynamicProgramming/MATCHAIN.cpp
+CMakeFiles/AlgorithmDesign_coding.dir/DynamicProgramming/MATCHAIN.cpp.o: ../DynamicProgramming/MATCHAIN.h
+
 CMakeFiles/AlgorithmDesign_coding.dir/main.cpp.o: ../Chapter1/BUTTONUPSORT.h
 CMakeFiles/AlgorithmDesign_coding.dir/main.cpp.o: ../Chapter1/BinSearch.h
 CMakeFiles/AlgorithmDesign_coding.dir/main.cpp.o: ../Chapter1/InsertionSort.h
 CMakeFiles/AlgorithmDesign_coding.dir/main.cpp.o: ../Chapter1/LinearSearch.h
 CMakeFiles/AlgorithmDesign_coding.dir/main.cpp.o: ../Chapter1/MeageList.h
 CMakeFiles/AlgorithmDesign_coding.dir/main.cpp.o: ../Chapter1/SelectedSort.h
+CMakeFiles/AlgorithmDesign_coding.dir/main.cpp.o: ../DynamicProgramming/LCS.h
+CMakeFiles/AlgorithmDesign_coding.dir/main.cpp.o: ../DynamicProgramming/MATCHAIN.h
 CMakeFiles/AlgorithmDesign_coding.dir/main.cpp.o: ../main.cpp
 
