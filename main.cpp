@@ -8,6 +8,8 @@
 #include "Chapter1/BUTTONUPSORT.h"
 #include "DynamicProgramming/LCS.h"
 #include "DynamicProgramming/MATCHAIN.h"
+#include "Chapter6/QuickSort.h"
+
 using namespace std;
 
 int main() {
@@ -23,9 +25,18 @@ int main() {
     //char a[] = "zxyxyz";
     //char b[] = "xyyzx";
     //int result = LSC(a,b,6,5);
-    int a[] = {0,5,10,4,6,10,2};
-    int result = MatChain(a,5);
-    cout << "the result is " << result <<endl;
+    //int a[] = {0,5,10,4,6,10,2};
+    //int result = MatChain(a,5);
+    //cout << "the result is " << result <<endl;
+
+
+    int a[] = {5,2,1,3,10,7,3,2};
+    QuickSort(a,0,7);
+    for(int i = 0;i <= 7;i ++)
+        cout << a[i] << " ";
+
     return 0;
+
+
 
 }
