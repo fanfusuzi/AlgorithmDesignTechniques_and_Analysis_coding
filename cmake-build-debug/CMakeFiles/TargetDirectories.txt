@@ -1,3 +1,3 @@
-E:/AlgorithmDesign_coding/cmake-build-debug/CMakeFiles/AlgorithmDesign_coding.dir
-E:/AlgorithmDesign_coding/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/AlgorithmDesign_coding/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/andrew/workspace/AlgorithmDesign_coding/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/andrew/workspace/AlgorithmDesign_coding/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/andrew/workspace/AlgorithmDesign_coding/cmake-build-debug/CMakeFiles/AlgorithmDesign_coding.dir
